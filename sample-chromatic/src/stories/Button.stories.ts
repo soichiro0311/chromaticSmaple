@@ -27,6 +27,12 @@ export const Primary: Story = {
     primary: true,
     label: 'Button',
   },
+  parameters: {
+    design: {
+      type: 'figma',
+      url: 'https://www.figma.com/file/q0RSYKRRaGTx70FdiZxSZB/%E7%84%A1%E9%A1%8C?type=design&node-id=129-43&mode=design&t=tzbdCp0ChEMclHmq-4',
+    },
+  },
 };
 
 export const Secondary: Story = {
